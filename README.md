@@ -1,5 +1,5 @@
 ![Image](https://github.com/user-attachments/assets/a361a0c9-fc09-45cc-b0f3-3fd299e257f8)
-<h3 align="center">Hi 👋, I'm Mohammad Tahir Khan<br>AWS Certified Cloud Practitioner | Cloud-Data & AI Dev | Full-Stack Tinkerer | Research-Driven Builder | Aspiring Cloud-Data Architect</h3>
+<h3 align="center">Hi There👋, I'm Tahir Khan<br >📬I’m always open to meaningful conversations, collaborations, and opportunities to make a difference. Feel free to reach out and let’s create something extraordinary together!</h3>
 
 ###
 
