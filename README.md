@@ -1,4 +1,4 @@
-![MasterHead]![Image](https://github.com/user-attachments/assets/a361a0c9-fc09-45cc-b0f3-3fd299e257f8)
+![Image](https://github.com/user-attachments/assets/a361a0c9-fc09-45cc-b0f3-3fd299e257f8)
 <h1 align="center">Hi 👋, I'm Tahir</h1>
 <h3 align="center">A Cloud-Data & AI Dev | Full-Stack Tinkerer | Research-Driven Builder</h3>
 <img align="right" alt="Coding" width="400" src="https://aitd.amity.edu/wp-content/uploads/2024/12/1616667695311.gif">
