@@ -3,7 +3,7 @@
 
 ###
 
-<img align="right" height="150" src="https://aitd.amity.edu/wp-content/uploads/2024/12/1616667695311.gif"  />
+<img align="right" height="150" src="https://github.com/user-attachments/assets/f34cbdbc-6a3e-4cdb-b752-d9afdfc13a7e"  />
 
 ###
 
